@@ -1,0 +1,31 @@
+What modules do I want to take
+
+Autumn
+Optimisation - no cw - maths
+Wavelets and Applications - 25% cw - signal maths
+Advanced Computer Architecture - 15% cw - electronics
+Pattern Recognition - 100% cw - classical ML, maths, DL
+
+
+Spring
+Information Theory - no cw - stats
+Graphics - 15% cw - programming
+Selected Topics in Computer Vision - 100% cw - DL
+
+
+
+Maybe
+Topics in Large Dimensional Data - 25% cw - MATHS
+Quantum Computing - 15% cw - programming, maths, electronics
+
+
+
+
+Possible projects
+StrassenNets for FPGAs - 1800894
+Boolean Circuits as Neural Networks - 1800895
+3D Imaging from Only Few Photons - 1800906
+Deep Compressed Sensing - 1800914
+Sudoku - 1800917
+Automatically generating crossword puzzles - 1800924
+Automatic Scrabble - 1800925
