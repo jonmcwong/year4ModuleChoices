@@ -1,16 +1,89 @@
 What modules do I want to take
+Exam timetable: https://intranet.ee.ic.ac.uk/electricalengineering/intrnl/examgrid.asp?stream=ALL
 
 Autumn
-Optimisation - no cw - maths
-Wavelets and Applications - 25% cw - signal maths
-Advanced Computer Architecture - 15% cw - electronics
-Pattern Recognition - 100% cw - classical ML, maths, DL
+Optimisation
+{
+	no cw
+	all maths. Theory behind constraint problems
+	Lecture Time: Fridays 9am - 11am. Will need to ask whether these are the only 10 lectures
+	Lecture Room: 403A/B wk 1-9
+
+	Exam: 10:00am Thursday 30th April 2020
+	Homepage: http://www3.imperial.ac.uk/people/a.astolfi/teaching/optimisation
+	Module info: http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=EE4-29&s=T4#start
+}
+
+Wavelets and Applications
+{
+	25% cw - matlab :(
+	signal maths. Finding easier representations of signals 
+	Lecture Time: Thursday 2:00pm-4:00pm 
+	Lecture Room: 407A/B wk 2-9 and 403A wk 10
+
+	Exam: 10:00am Wednesday 29th April 2020
+	Module info: http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=EE4-45&s=T4#start
+	Homepage: http://www.commsp.ee.ic.ac.uk/%7Epld/Teaching/wave/ 
+}
+
+Advanced Computer Architecture
+{
+	15% cw
+	electronics. Lots of textbook reading
+	Lecture Room: Dunno, no info
+	Lecture Time: Dunno, no info
+
+	Exam: Dunno
+	Homepage: http://www.doc.ic.ac.uk/~phjk/AdvancedCompArchitecture.html
+	Module info: https://www.imperial.ac.uk/computing/current-students/courses/332/
+}
+Pattern Recognition
+{
+	100% cw
+	classical ML, maths, DL.
+	Lecture Time: Tuesdays 2:00pm-4:00pm 
+	Lecture Room: 509A
+
+	Exam: TBC- None
+	Module info: http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=EE4-68&s=T4#start
+	Homepage: none
+}
+
 
 
 Spring
-Information Theory - no cw - stats
-Graphics - 15% cw - programming
-Selected Topics in Computer Vision - 100% cw - DL
+Information Theory
+{
+	no cw
+	stats
+	Lecture Time: Dunno
+	Lecture Room: Dunno
+
+	Exam: 10:00am Tuesday May 12th May
+	Modulue info: http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=EE4-40&s=T4#start
+	Homepage: http://www.commsp.ee.ic.ac.uk/~cling/IT/InformationTheory.htm
+}
+Graphics
+{
+	15% cw
+	programming
+	Lecture Time:
+	Lecture Room:
+
+	Exam: Find out
+	Module Info: 
+	Homepage: http://www.imperial.ac.uk/computing/current-students/courses/317/
+}
+Selected Topics in Computer Vision
+{
+	100% cw
+	DL
+	Lecture Room:
+	Lecture Time:
+
+	Exam: None
+	Homepage: N/A
+	Module info: http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=EE4-62&s=T4#start
 
 
 
